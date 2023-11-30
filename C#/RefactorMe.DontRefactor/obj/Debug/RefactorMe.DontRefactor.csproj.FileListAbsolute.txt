@@ -1,0 +1,6 @@
+C:\Users\Admin\Downloads\RefactorMe\C#\RefactorMe.DontRefactor\bin\Debug\RefactorMe.DontRefactor.dll
+C:\Users\Admin\Downloads\RefactorMe\C#\RefactorMe.DontRefactor\bin\Debug\RefactorMe.DontRefactor.pdb
+C:\Users\Admin\Downloads\RefactorMe\C#\RefactorMe.DontRefactor\obj\Debug\RefactorMe.DontRefactor.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\RefactorMe\C#\RefactorMe.DontRefactor\obj\Debug\RefactorMe.DontRefactor.dll
+C:\Users\Admin\Downloads\RefactorMe\C#\RefactorMe.DontRefactor\obj\Debug\RefactorMe.DontRefactor.pdb
+C:\Users\Admin\Downloads\RefactorMe\C#\RefactorMe.DontRefactor\obj\Debug\RefactorMe.DontRefactor.csproj.AssemblyReference.cache
